@@ -14,7 +14,7 @@
     
     Server：在工作站linux3上 server預設開port 2021，執行下列指令
     ```
-    bash runServer.sh
+    bash runServer.sh $(port)
     ```
     Client：分別在兩台機器，預設輸入linux3 ip = 140.112.30.34，port = 2021
     ```
