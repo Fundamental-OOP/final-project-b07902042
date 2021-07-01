@@ -9,6 +9,7 @@
     ![](https://i.imgur.com/wtMf8wW.png)
 
 * server - 2 clients
+
     先開Server，再開Clients
     
     Server：在工作站linux3上 server預設開port 2021，執行下列指令
